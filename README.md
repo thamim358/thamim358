@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm thamim ansari</h1>
-<h3 align="center"> frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Thamim Ansari</h1>
+<h3 align="center">Frontend developer</h3>
 
 
 
