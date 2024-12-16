@@ -40,11 +40,6 @@
     <img src="https://img.shields.io/badge/WWDC19-Attendee-blue" alt="WWDC19 Badge" />
     <img src="https://img.shields.io/badge/100%20Commits-Completed-brightgreen" alt="100 Commits Badge" />
     <img src="https://img.shields.io/badge/Code%20Wars-5%2B%20Kyu-yellowgreen" alt="Code Wars Badge" />
-    <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-0066cc" alt="LeetCode Badge" />
-    <img src="https://img.shields.io/badge/Hacktoberfest-2023-ff7f00" alt="Hacktoberfest Badge" />
-    <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud Badge" />
-    <img src="https://img.shields.io/badge/Certified%20Kubernetes-Administrator-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
-    <img src="https://img.shields.io/badge/DevOps%20Practitioner-Experienced-33A1DE?style=flat&logo=jenkins&logoColor=white" alt="DevOps Badge" />
     <img src="https://img.shields.io/badge/Frontend%20Development-ReactJS%20and%20TailwindCSS-61DAFB?style=flat&logo=react&logoColor=white" alt="Frontend Badge" />
     <img src="https://img.shields.io/badge/Backend%20Development-Node.js%20and%20Express-8CC84B?style=flat&logo=node.js&logoColor=white" alt="Backend Badge" />
   </div>
@@ -54,4 +49,4 @@
 
 ### 🌱 Current Focus
 - Exploring **cloud technologies** with **AWS**.
-- Building scalable applications with **Node.js** and **React**.
+- Building scalable applications with **React**.
