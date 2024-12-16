@@ -12,3 +12,5 @@
 
 
 
+## GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=thamim358&show_icons=true&theme=dark)
