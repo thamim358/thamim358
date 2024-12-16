@@ -40,7 +40,6 @@
     <h3>Achievements</h3>
     <img src="https://img.shields.io/badge/WWDC19-Attendee-blue" alt="WWDC19 Badge" />
     <img src="https://img.shields.io/badge/100%20Commits-Completed-brightgreen" alt="100 Commits Badge" />
-    <img src="https://img.shields.io/badge/Code%20Wars-5%2B%20Kyu-yellowgreen" alt="Code Wars Badge" />
     <img src="https://img.shields.io/badge/Frontend%20Development-ReactJS%20and%20TailwindCSS-61DAFB?style=flat&logo=react&logoColor=white" alt="Frontend Badge" />
     <img src="https://img.shields.io/badge/Backend%20Development-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Backend Badge" />
   </div>
