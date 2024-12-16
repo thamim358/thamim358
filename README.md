@@ -28,7 +28,7 @@
 
   <div style="flex: 1; min-width: 300px; background-color: #333; color: white; padding: 20px; border-radius: 10px;">
     <h3>GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=thamim358&show=prs_merged_percentage&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thamim358&show=prs_merged_percentage&show_icons=true&count_private=true&include_all_commits=true&&hide=stars&theme=dark" alt="GitHub Stats" />
   </div>
 
   <div style="flex: 1; min-width: 300px; background-color: #333; color: white; padding: 20px; border-radius: 10px;">
