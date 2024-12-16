@@ -28,15 +28,8 @@
 
   <div style="flex: 1; min-width: 300px; background-color: #333; color: white; padding: 20px; border-radius: 10px;">
     <h3>GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=thamim358&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thamim358&show=prs_merged_percentage&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
   </div>
-
-  <div style="flex: 1; min-width: 300px; background-color: #333; color: white; padding: 20px; border-radius: 10px;">
-    <h3>Additional Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=thamim358&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark" alt="Additional GitHub Stats" />
-  </div>
-
-
 
   <div style="flex: 1; min-width: 300px; background-color: #333; color: white; padding: 20px; border-radius: 10px;">
     <h3>Most Used Languages</h3>
