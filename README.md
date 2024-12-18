@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-ReactJS-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-16.x-8CC84B?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Swift-5.x-F05138?style=flat&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-2.x-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
