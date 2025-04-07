@@ -65,7 +65,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:10px;margin:20px 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamim358&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117" alt="Thamim's Top Languages" width="300" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thamim358&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" style="flex:1;min-width:300px;max-width:49%;" />
 </div>
 
