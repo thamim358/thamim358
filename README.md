@@ -43,20 +43,13 @@ As a detail-oriented Software Developer, I bring a solid foundation in front-end
 ---
 
 ### 📊 GitHub Stats
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
 
-  <div style="flex: 1; min-width: 300px; background-color: #333; color: white; padding: 20px; border-radius: 10px;">
-    <h3>Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamim358&layout=compact&theme=dark" alt="Most Used Languages" />
-  </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thamim358&show_icons=true&theme=github_dark&hide_border=false&count_private=true" alt="Thamim's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamim358&layout=compact&theme=github_dark&hide_border=false" alt="Thamim's Top Languages" width="48%" />
+</p>
 
-  <div style="flex: 1; min-width: 300px; background-color: #333; color: white; padding: 20px; border-radius: 10px;">
-    <h3>Achievements</h3>
-    <img src="https://img.shields.io/badge/100%20Commits-Completed-brightgreen" alt="100 Commits Badge" />
-    <img src="https://img.shields.io/badge/Frontend%20Development-ReactJS%20and%20TailwindCSS-61DAFB?style=flat&logo=react&logoColor=white" alt="Frontend Badge" />
-    <img src="https://img.shields.io/badge/Backend%20Development-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Backend Badge" />
-  </div>
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thamim358&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
