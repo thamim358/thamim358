@@ -1,55 +1,121 @@
-<h1 align="center" style="font-size: 50px; color: #4CAF50; font-family: 'Arial', sans-serif;">
-  Hi 👋, I'm <span style="font-family: 'Brush Script MT', cursive; color: #FF6347;">Thamim Ansari</span>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=4000&pause=1000&color=4CAF50&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there!+I'm+Thamim+Ansari;Software+Developer;Frontend+Specialist;Creative+Problem+Solver" alt="Typing SVG" />
 </h1>
-<h3 align="center" style="font-size: 30px; font-family: 'Arial', sans-serif; color: #333;">
-  Software Developer
-</h3>
 
-- 📄 This is my Portfolio: **[https://thamim2023.web.app/](https://thamim2023.web.app/)**
-- 👨‍💻 All of my projects are available at [thamim358](https://github.com/thamim358)
-- 📫 How to reach me: **thamimansari358@gmail.com**
+<div align="center">
+  <a href="https://thamim2023.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-thamim2023.web.app-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:thamimansari358@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thamimansari358@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/thamim358">
+    <img src="https://img.shields.io/badge/GitHub-thamim358-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
----
+<br>
 
-### 🔧 Technical Skills
-<p style="font-size: 16px; line-height: 1.6;">
-As a detail-oriented Software Developer, I bring a solid foundation in front-end and back-end technologies, consistently focusing on building clean, scalable, and responsive web applications. With hands-on experience in modern JavaScript frameworks, cloud platforms, and UI/UX best practices, I leverage a wide range of tools and technologies to deliver impactful user experiences and efficient solutions.
-</p>
-
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 12px; margin-top: 20px;">
-
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React.js-UI%20Library-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-State%20Management-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-Utility%20First-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/SASS/SCSS-Stylesheets-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-Microframework-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Firebase-Cloud_DB-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/REST_API-Integration-4A90E2?style=flat&logo=apacherocketmq&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Figma-Design-3333FF?style=flat&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/GCP-Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/GitHub-Version_Control-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Playwright-E2E_Testing-2EAD33?style=flat&logo=microsoft&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Next.js-Fullstack-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thamim358&style=flat-square&color=4CAF50" alt="Profile views"/>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">💫 About Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thamim358&show_icons=true&theme=github_dark&hide_border=false&count_private=true" alt="Thamim's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamim358&layout=compact&theme=github_dark&hide_border=false" alt="Thamim's Top Languages" width="48%" />
+  As a detail-oriented Software Developer, I bring a solid foundation in front-end and back-end technologies, consistently focusing on building clean, scalable, and responsive web applications. With hands-on experience in modern JavaScript frameworks, cloud platforms, and UI/UX best practices, I leverage a wide range of tools and technologies to deliver impactful user experiences and efficient solutions.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thamim358&theme=github-dark&hide_border=false" alt="GitHub Streak" />
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamim358&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117" alt="Thamim's Top Languages" width="35%" />
 
+<h3>🌟 Highlights</h3>
+
+- 🚀 Specialized in React.js ecosystem
+- 🎨 Passionate about crafting intuitive UIs
+- 🔄 Advocate for clean, maintainable code
+- 📱 Focused on responsive design
+- ☁️ Experienced with cloud platforms
+- 🔍 Currently exploring GCP technologies
+
+<br>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3 align="center">Frontend Development</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,sass,tailwind,nextjs,vite" alt="Frontend Skills" />
+</div>
+
+<h3 align="center">Backend Development</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,firebase,mysql,graphql" alt="Backend Skills" />
+</div>
+
+<h3 align="center">Tools & Platforms</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,gcp,aws,postman,vscode" alt="Tools & Platforms" />
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thamim358&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&count_private=true" alt="Thamim's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thamim358&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thamim358&theme=onestar&no-frame=true&row=1&column=6" alt="trophy" />
+</div>
+
+---
+
+<h2 align="center">📌 Current Focus</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>☁️ Cloud Technologies</h3>
+        <ul>
+          <li>GCP Service Integration</li>
+          <li>Serverless Architecture</li>
+          <li>Cloud Deployment Optimization</li>
+        </ul>
+      </td>
+      <td>
+        <h3>⚛️ Advanced React</h3>
+        <ul>
+          <li>Performance Optimization</li>
+          <li>State Management Patterns</li>
+          <li>Component Architecture</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">🔗 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/thamim358">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://dev.to/thamim358">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%" />
+</div>
