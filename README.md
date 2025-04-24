@@ -14,9 +14,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thamim358&style=flat-square&color=4CAF50" alt="Profile views"/>
-</div>
+
 
 <hr style="height:2px;border-width:0;color:#4CAF50;background-color:#4CAF50;margin:20px 0">
 
